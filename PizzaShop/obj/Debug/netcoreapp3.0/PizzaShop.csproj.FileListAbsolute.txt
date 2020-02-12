@@ -1,0 +1,11 @@
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.0\PizzaShop.exe
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.0\PizzaShop.deps.json
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.0\PizzaShop.runtimeconfig.json
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.0\PizzaShop.runtimeconfig.dev.json
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.0\PizzaShop.dll
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.0\PizzaShop.pdb
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.0\PizzaShop.AssemblyInfoInputs.cache
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.0\PizzaShop.AssemblyInfo.cs
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.0\PizzaShop.dll
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.0\PizzaShop.pdb
+C:\Users\endri\OneDrive\Desktop\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.0\PizzaShop.csprojAssemblyReference.cache
